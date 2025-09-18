@@ -90,7 +90,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视 4K.png" group-title="卫视",北京卫视 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/广东卫视 4K.png" group-title="卫视",广东卫视 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/index.m3u9
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/深圳卫视 4K.png" group-title="卫视",深圳卫视 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/浙江卫视.png" group-title="卫视",浙江卫视
@@ -413,3 +413,4 @@ http://fortv.cc:8080/q8KuDU/354945/66244
 http://fortv.cc:8080/q8KuDU/354945/20189
 #EXTINF:-1 tvg-id="10260" tvg-name="FXM" group-title="国际",FXM
 http://fortv.cc:8080/q8KuDU/354945/10260
+
