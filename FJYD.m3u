@@ -283,18 +283,6 @@ http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 http://live.lyg1.com/zhpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="连云港公共" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/连云港公共.png" group-title="江苏频道",连云港公共
 http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CHC影迷电影.png" group-title="央视",CHC影迷电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CHC动作电影.png" group-title="央视",CHC动作电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CHC家庭影院.png" group-title="央视",CHC家庭影院
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CHC影迷电影.png" group-title="央视",CHC影迷电影
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV-4 欧洲" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV-4 欧洲.png" group-title="央视",CCTV-4 欧洲
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="CCTV-4 美洲" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV-4 美洲.png" group-title="央视",CCTV-4 美洲
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="国际",CNN
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
 #EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="国际",BBC 
@@ -425,4 +413,5 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/index.m3u9
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
 #EXTINF:-1 tvg-name="4K纯享" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/4K纯享.png" group-title="央视",4K纯享
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+
 
