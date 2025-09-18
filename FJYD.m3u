@@ -37,6 +37,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV17.png" group-title="央视",CCTV17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4k超高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV4k超高清.png" group-title="央视",CCTV4k超高清
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
+#EXTINF:-1 tvg-name="4K纯享" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/4K纯享.png" group-title="央视",4K纯享
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN记录.png" group-title="央视",CGTN记录
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN英语.png" group-title="央视",CGTN英语
@@ -83,6 +87,12 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视 4K.png" group-title="卫视",北京卫视 4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/广东卫视 4K.png" group-title="卫视",广东卫视 4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/index.m3u9
+#EXTINF:-1 tvg-name="深圳卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/深圳卫视 4K.png" group-title="卫视",深圳卫视 4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/浙江卫视.png" group-title="卫视",浙江卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227193/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/河北卫视.png" group-title="卫视",河北卫视
@@ -403,15 +413,3 @@ http://fortv.cc:8080/q8KuDU/354945/66244
 http://fortv.cc:8080/q8KuDU/354945/20189
 #EXTINF:-1 tvg-id="10260" tvg-name="FXM" group-title="国际",FXM
 http://fortv.cc:8080/q8KuDU/354945/10260
-#EXTINF:-1 tvg-name="CCTV4k超高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV4k超高清.png" group-title="央视",CCTV4k超高清
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视 4K.png" group-title="卫视",北京卫视 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/广东卫视 4K.png" group-title="卫视",广东卫视 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/index.m3u9
-#EXTINF:-1 tvg-name="深圳卫视 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/深圳卫视 4K.png" group-title="卫视",深圳卫视 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
-#EXTINF:-1 tvg-name="4K纯享" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/4K纯享.png" group-title="央视",4K纯享
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-
-
