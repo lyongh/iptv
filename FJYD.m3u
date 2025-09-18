@@ -41,20 +41,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-name="4K纯享" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/4K纯享.png" group-title="央视",4K纯享
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN记录.png" group-title="央视",CGTN记录
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN英语.png" group-title="央视",CGTN英语
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN法语.png" group-title="央视",CGTN法语
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN俄语.png" group-title="央视",CGTN俄语
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227103/index.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN西语.png" group-title="央视",CGTN西语
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227238/index.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN阿语.png" group-title="央视",CGTN阿语
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227224/index.m3u8
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/中国天气.png" group-title="央视",中国天气
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227210/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CETV1.png" group-title="央视",CETV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CETV2.png" group-title="央视",CETV2
@@ -77,7 +63,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建文体.png" group-title="福建地方",福建文体
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建少儿.png" group-title="福建地方",福建少儿
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/福建少儿.png" group-title="儿童节目",福建少儿
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/海峡卫视.png" group-title="福建地方",海峡卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
@@ -159,38 +145,18 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225856/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京纪实科教.png" group-title="精彩",北京纪实科教
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/东方财经.png" group-title="精彩",东方财经
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
-#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/上海纪实人文.png" group-title="精彩",上海纪实人文
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场 4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/欢笑剧场 4K.png" group-title="精彩",欢笑剧场 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/先锋乒羽.png" group-title="精彩",先锋乒羽
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/法治天地.png" group-title="精彩",法治天地
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227176/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/快乐垂钓.png" group-title="精彩",快乐垂钓
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/山东教育卫视.png" group-title="精彩",山东教育卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227474/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/茶频道.png" group-title="精彩",茶频道
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/游戏风云.png" group-title="精彩",游戏风云
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
-#EXTINF:-1 tvg-name="city都市剧场" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/city都市剧场.png" group-title="精彩",city都市剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/乐游.png" group-title="精彩",乐游
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/金色学堂.png" group-title="精彩",金色学堂
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/生活时尚.png" group-title="精彩",生活时尚
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/金鹰纪实.png" group-title="精彩",金鹰纪实
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/金鹰卡通.png" group-title="儿童节目",金鹰卡通
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/哈哈炫动.png" group-title="精彩",哈哈炫动
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227335/index.m3u8
 #EXTINF:-1 tvg-name="北京KAKU少儿" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京KAKU少儿.png" group-title="儿童节目",北京KAKU少儿
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227456/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/嘉佳卡通.png" group-title="儿童节目",嘉佳卡通
@@ -413,4 +379,5 @@ http://fortv.cc:8080/q8KuDU/354945/66244
 http://fortv.cc:8080/q8KuDU/354945/20189
 #EXTINF:-1 tvg-id="10260" tvg-name="FXM" group-title="国际",FXM
 http://fortv.cc:8080/q8KuDU/354945/10260
+
 
