@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV1.png" group-title="央视",CCTV1
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227550/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV2.png" group-title="央视",CCTV2
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV3.png" group-title="央视",CCTV3
@@ -12,11 +12,11 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV6.png" group-title="央视",CCTV6
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227525/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV7.png" group-title="央视",CCTV7
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV8.png" group-title="央视",CCTV8
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227449/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227546/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV9.png" group-title="央视",CCTV9
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV10.png" group-title="央视",CCTV10
