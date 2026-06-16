@@ -35,7 +35,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV17.png" group-title="央视",CCTV17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV4k.png" group-title="央视",CCTV4k
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV4K.png" group-title="央视",CCTV4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-name="4K纯享" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/4K纯享.png" group-title="央视",4K纯享
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
